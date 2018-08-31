@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple Device Lookup - Mac</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>x86_64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>652630EE3706371C33AED7521A2410F6546B346B</string>
+				<key>dateExpires</key>
+				<string>9/1/23</string>
+				<key>type</key>
+				<string>Developer ID Application</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>x86_64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>652630EE3706371C33AED7521A2410F6546B346B</string>
+						<key>dateExpires</key>
+						<string>9/1/23</string>
+						<key>type</key>
+						<string>Developer ID Application</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9F4WXH899R</string>
+						<key>name</key>
+						<string>Brianna Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>x86_64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>652630EE3706371C33AED7521A2410F6546B346B</string>
+						<key>dateExpires</key>
+						<string>9/1/23</string>
+						<key>type</key>
+						<string>Developer ID Application</string>
+					</dict>
+					<key>name</key>
+					<string>SWXMLHash.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9F4WXH899R</string>
+						<key>name</key>
+						<string>Brianna Lee</string>
+					</dict>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>Apple Device Lookup - Mac.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9F4WXH899R</string>
+				<key>name</key>
+				<string>Brianna Lee</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_Apple_Device_Lookup___Mac {
+  umbrella header "Pods-Apple Device Lookup - Mac-umbrella.h"
+
+  export *
+  module * { export * }
+}
